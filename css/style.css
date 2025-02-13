@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    font-family: "Playwrite GB S", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 50px; 
+}
+
+
+#background-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+
+h1 {
+  font-family: "Playwrite GB S", serif;
+  font-optical-sizing: auto;
+  font-weight: normal; /* Change if you have a specific weight */
+  font-style: normal;
+  color: #f2bdd4;
+  font-size: 75px;
+}
+
+
+h6{
+	color: #fcccec;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+h2 {
+  font-family: "Playwrite GB S", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #c7c3eb;
+  font-size: 50px;
+}
+
+h4{
+font-family: "Playwrite GB S", serif;
+	color: #fcccec;
+	font-weight: normal;
+	font-size: 15px;
+}
+dd{
+	color: #dbcad1;
+	font-size: 20px;
+}
+dt{
+	color: #c1bbf0;
+	font-size: 20px;
+}
+span{
+	font-weight: bold;
+}
+
+a {
+  color: #b86788;
+}
+
+a:hover {
+  color: #e8acba; 
+}
+
