@@ -25,7 +25,6 @@ body {
   color: #422034; 
 }
 
-/* Playwrite GB S Font Styling */
 .playwrite-gb-s {
   font-family: "Playwrite GB S", serif;
   font-optical-sizing: auto;
@@ -34,20 +33,17 @@ body {
 
 }
 
-/* Header Styling */
 header {
   width: 75vw;
   margin: 25px auto;
 }
 
-/* Main Content Styling */
 main {
   width: 75vw;
   margin: 25px auto;
   display: flow-root;
 }
 
-/* H1 Styling */
 h1 {
   text-transform: uppercase;
   letter-spacing: 15px;
@@ -79,7 +75,6 @@ ul {
   color: #422034; 
 }
 
-/* List Item Styling */
 li {
   margin-bottom: 15px;
   font-size: 1.25rem;
@@ -103,10 +98,8 @@ a:active {
   color: #ffc4cf;
 }
 
-/* Media Query for Smaller Screens */
 @media screen and (max-width: 961px) {
   header, main {
     width: 90vw;
   }
 }
-
