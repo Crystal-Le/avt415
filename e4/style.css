@@ -65,7 +65,8 @@ p{
   font-family: odile, serif;
   font-weight: 100;
   font-style: normal;
-  margin-left: -50px
+  margin-left: -50px;
+  font-size: 1.1rem
 }
 small {
   display: block; 
